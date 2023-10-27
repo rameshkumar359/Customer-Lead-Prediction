@@ -15,3 +15,11 @@
 #### Model Selection.
 #### Model Evaluation.
 #### Model intrepretability and Comparision.
+![heat](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/b90d6d4a-0255-42ea-ae28-1a1ff01c7726)
+![el_knn](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/807ffe39-df56-434b-9b0c-7baa2dbefffa)
+![hist_log](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/3de9d78b-4e53-42a3-a6ec-9ec345d5eafb)
+
+![dat](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/fbb03feb-5297-4a48-934a-dbd76a11057f)
+![model-cur](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/6798147b-a29c-4790-bfa5-e079da87f6d7)
+![model-cur](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/84718762-d4b1-426d-93aa-1e0d8a0f01ce)
+
