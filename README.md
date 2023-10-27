@@ -7,3 +7,11 @@
 ###  How can the platform prioritize and allocate resources to leads with the highest conversion potential?
 ###  What marketing and sales strategies can be tailored to specific lead segments?
 ###  How can the lead management process be streamlined and made more effective?
+## Approaches
+#### Understanding the data knowing the features by doing some searches.
+#### Get to know the significant features that contibute to our target column.
+#### Data cleaning and Feature Engineering.
+#### Exploratory Data Analysis.
+#### Model Selection.
+#### Model Evaluation.
+#### Model intrepretability and Comparision.
