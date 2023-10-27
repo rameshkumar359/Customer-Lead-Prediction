@@ -21,5 +21,6 @@
 
 ![dat](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/fbb03feb-5297-4a48-934a-dbd76a11057f)
 ![model-cur](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/6798147b-a29c-4790-bfa5-e079da87f6d7)
-![model-cur](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/84718762-d4b1-426d-93aa-1e0d8a0f01ce)
+![model_comp](https://github.com/rameshkumar359/Customer-Lead-Prediction/assets/96288285/8a8d55d1-2410-4dbb-aa99-c776e655c022)
+
 
