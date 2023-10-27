@@ -11,7 +11,7 @@
 #### Understanding the data knowing the features by doing some searches.
 #### Get to know the significant features that contibute to our target column.
 #### Data cleaning and Feature Engineering.
-#### Exploratory Data Analysis.
+#### Exploratory Data Analysis and getting some Insights.
 #### Model Selection.
 #### Model Evaluation.
 #### Model intrepretability and Comparision.
